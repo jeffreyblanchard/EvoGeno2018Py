@@ -3,7 +3,7 @@ Evolutionary Genetics 2018
 
 * Lab 1 : [Introduction to Bioinformatics](EvoGenV5_Lab1.ipynb)
     * Lab 1A : [Introduction to the Command Line for OSX and UNIX Users](EvoGenV5_Lab1A.ipynb)
-    * Lab 1B : Introduction to the Command Line for Windows(EvoGenV5_Lab1B.ipynb)
+    * Lab 1B : [Introduction to the Command Line for Windows](EvoGenV5_Lab1B.ipynb)
 * Lab 2 : [Sequences and Strings](EvoGenV5_Lab2.ipynb)
 * Lab 3 : [Detecting DNA Polymorphisms - Conditional Statements](EvoGenV5_Lab3.ipynb)
 * Lab 4 : [Detecting Selection with Loops](EvoGenV5_Lab4.ipynb)
