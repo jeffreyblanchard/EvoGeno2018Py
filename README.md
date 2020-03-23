@@ -18,4 +18,4 @@ Evolutionary Genetics 2018
 * Lab 13 : [Intro to RDP and Phylogenetic Analysis](EvoGenV5_Lab13.ipynb)
 * Lab 14 : [Phylogenetic Analysis on CIPRES](EvoGenV5_Lab14.ipynb)
 * Lab 15 : [Python modules for manipulating files and directories](EvoGenV5_Lab15.ipynb)
-* [Class Project Part 1](Project_Part1.ipynb)
+* Lab 16 : [Class Project Part 1](Project_Part1.ipynb)
