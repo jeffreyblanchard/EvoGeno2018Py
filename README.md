@@ -1,4 +1,4 @@
-# EvoGenV5
+# EvoGeno2018Py
 Evolutionary Genetics 2018
 
 * Lab 1 : [Introduction to Bioinformatics](EvoGenV5_Lab1.ipynb)
