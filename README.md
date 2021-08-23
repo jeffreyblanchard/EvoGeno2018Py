@@ -19,3 +19,8 @@ Evolutionary Genetics 2018
 * Lab 14 : [Phylogenetic Analysis on CIPRES](EvoGenV5_Lab14.ipynb)
 * Lab 15 : [Python modules for manipulating files and directories](EvoGenV5_Lab15.ipynb)
 * Lab 16 : [Class Project Part 1](Project_Part1.ipynb)
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeffreyblanchard/EvoGeno2018Py/HEAD)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/jeffreyblanchard/EvoGeno2018Py/HEAD
